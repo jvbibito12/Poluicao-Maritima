@@ -10,6 +10,7 @@ body {
 .content {
   position: relative;
   font-family: "Poppins";
+  align-content: center;
   /* scale: 77%; */
 }
 .elementor-widget-wrap {
