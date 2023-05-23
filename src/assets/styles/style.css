@@ -2,15 +2,15 @@ body {
   position: relative;
   margin: 0;
   padding: 0;
-  left: -172px;
-  top: -5px;
+  /* left: -172px;
+  top: -5px; */
 
   background: #f1f1f2;
 }
 .content {
   position: relative;
   font-family: "Poppins";
-  scale: 77%;
+  /* scale: 77%; */
 }
 .elementor-widget-wrap {
   position: relative;
