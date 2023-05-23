@@ -1,0 +1,392 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  left: -172px;
+  top: -5px;
+
+  background: #f1f1f2;
+}
+.content {
+  position: relative;
+  font-family: "Poppins";
+  scale: 77%;
+}
+.elementor-widget-wrap {
+  position: relative;
+  height: 42px;
+  left: 471px;
+  right: 471px;
+  top: 32px;
+  z-index: 2;
+  width: 81rem;
+}
+.menu-1 {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.elementor-widget-wrap a {
+  font-family: "Poppins";
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+  margin: 0 8.5px;
+}
+.elementor-widget-wrap a.active {
+  color: #aaaaaa;
+  pointer-events: none;
+}
+.elementor-section-wrap {
+  position: absolute;
+  width: 120rem;
+  height: 855px;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+.elementor-row {
+  position: absolute;
+  left: 312px;
+  right: 312px;
+  top: 541px;
+}
+#quemsomosrow {
+  height: 1124px;
+}
+#objetivorow {
+  height: 1195px;
+}
+#alternativasrow {
+  height: 2335px;
+}
+#sistemasrow {
+  height: 1541px;
+}
+#educacaorow {
+  height: 2817px;
+}
+#materiaisrow {
+  height: 2559px;
+}
+.elementor-column-wrap {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: -229px;
+
+  background: #fafafa;
+}
+#quemsomoscol {
+  height: 1353px;
+}
+#objetivocol {
+  height: 1424px;
+}
+#alternativascol {
+  height: 2564px;
+}
+#sistemascol {
+  height: 1770px;
+}
+#educacaocol {
+  height: 3046px;
+}
+#materiaiscol {
+  height: 2903px;
+}
+.elementor-column-wrap .elementor-widget-wrap {
+  position: absolute;
+  height: 100%;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+.elementor-heading-title h1 {
+  margin-top: 6.875rem;
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #323232;
+}
+#smaller {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #323232;
+  width: 41.125rem;
+  height: 104px;
+  margin: 4.313rem 19.938rem;
+}
+.elementor-widget-container {
+  position: absolute;
+  width: 54.5rem;
+  left: 212px;
+  top: 233px;
+}
+#quemsomos1 {
+  background-image: url(../images/QuemSomos.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54.5rem;
+  height: 537px;
+}
+#objetivo1 {
+  background-image: url(../images/Objetivo1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54.5rem;
+  height: 537px;
+}
+#alternativas1 {
+  background-image: url(../images/alternativas1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  width: 54.5rem;
+  height: 537px;
+}
+#alternativas2 {
+  background-image: url(../images/alternativas2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54.5rem;
+  height: 537px;
+}
+#alternativas3 {
+  background-image: url(../images/alternativas3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 54.5rem;
+  height: 319px;
+}
+#sistemas1 {
+  background-image: url(../images/sistemas1.png);
+  width: 54.5rem;
+  height: 537px;
+  background-position: center;
+}
+#educacao1 {
+  background-image: url(../images/educacao1.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 54.5rem;
+  height: 537px;
+}
+#educacao2 {
+  background-image: url(../images/educacao2.png);
+  background-size: contain;
+  width: 54.5rem;
+  height: 54.5rem;
+}
+#materiais1 {
+  background-image: url(../images/materiais1.jpg);
+  background-size: cover;
+  width: 54.5rem;
+  height: 537px;
+}
+#materiais2 {
+  background-image: url(../images/materiais2.webp);
+  background-size: cover;
+  width: 54.5rem;
+  height: 537px;
+}
+.elementor-widget-container em {
+  width: 54.5rem;
+
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  margin: 18px 0;
+
+  color: #131313;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  word-wrap: break-word;
+}
+.elementor-widget-container .subtitle {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  /* or 128% */
+
+  display: flex;
+  align-items: center;
+  text-align: justify;
+
+  color: #131313;
+}
+.elementor-widget-container .p {
+  width: 54.5rem;
+  margin: 18px 0;
+}
+.elementor-widget-container p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  text-align: justify;
+
+  color: #131313;
+  margin: 18px 0;
+}
+.elementor-widget-container .list {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  align-items: center;
+  text-align: justify;
+
+  color: #131313;
+  margin: 18px 9px -18px 0;
+}
+.elementor-widget-container li {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  align-items: center;
+  text-align: justify;
+
+  color: #131313;
+  margin: 18px 0;
+}
+.elementor-background-overlay {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+#quemsomosgrad {
+  background: linear-gradient(
+    115.97deg,
+    #091830 0%,
+    rgba(48, 70, 104, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#objetivograd {
+  background: linear-gradient(
+    115.97deg,
+    #660854 0%,
+    rgba(30, 83, 143, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#alternativasgrad {
+  background: linear-gradient(
+    115.97deg,
+    #153952 0%,
+    rgba(45, 135, 137, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#sistemasgrad {
+  background: linear-gradient(
+    115.97deg,
+    #123000 0%,
+    rgba(101, 148, 58, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#educacaograd {
+  background: linear-gradient(
+    115.97deg,
+    #13612d 0%,
+    rgba(97, 137, 30, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#materiaisgrad {
+  background: linear-gradient(
+    115.97deg,
+    #582f0e 0%,
+    rgba(127, 79, 36, 0.89) 100%
+  );
+  opacity: 0.95;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.elementor-section {
+  position: absolute;
+  width: 120.25rem;
+  height: 540px;
+  left: 0px;
+  top: 0px;
+}
+#quemsomosbg {
+  background: url(../images/QuemSomosbg.jpg), #f1f1f2;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#objetivobg {
+  background: url(../images/objetivobg.webp), #f1f1f2;
+  background-position-x: right;
+  background-position-y: center;
+}
+#alternativasbg {
+  background: url(../images/alternativasbg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+  background-position-y: center;
+}
+
+#sistemasbg {
+  background: url(../images/sistemasbg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+  background-position-y: center;
+}
+#educacaobg {
+  background: url(../images/educacaobg.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+  background-position-y: center;
+}
+#materiaisbg {
+  background: url(../images/materiaisbg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+  background-position-y: center;
+}
